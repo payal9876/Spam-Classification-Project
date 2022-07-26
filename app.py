@@ -7,7 +7,8 @@ app=Flask(__name__)
 @app.route('/',methods=['POST','GET'])
 
 def index():
-    return 'this is the nlp project'
+    return 'this is the nlp project we will love it'
+    
 
 
 if __name__=="__main__":
