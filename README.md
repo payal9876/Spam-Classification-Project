@@ -5,9 +5,9 @@ In this project I build a model for classifying the SMS/Email into spam or ham t
 
 
 
-#REQUIREMENTS
+#Requirements
 
-Python
+.Python
 scikit-learn / sklearn
 Pandas
 NumPy
