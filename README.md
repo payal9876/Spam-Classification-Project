@@ -26,3 +26,8 @@ Use different standard classifiers for classification of the SMS.
 Compare the accuracy of various classifiers using standard classification metrics
 Best Accuracy is given by RANDOM FOREST MODEL
 
+
+
+#DEPLOYMENT LINK
+
+https://spamclassification145.herokuapp.com/
