@@ -7,4 +7,22 @@ In this project I build a model for classifying the SMS/Email into spam or ham t
 
 #REQUIREMENTS
 
+Python
+scikit-learn / sklearn
+Pandas
+NumPy
+matplotlib
+Docker
+Flask
+HEROKU
+
+
+# COMPONENTS
+
+Using BAG OF WORDS  for feature extraction of the text data for the messages.
+Use splits for skewed data(Since the number of ham are far more than the number of spam messages,the data is skewed)
+Use Train-test-split split for the split of skewed data.
+Use different standard classifiers for classification of the SMS.
+Compare the accuracy of various classifiers using standard classification metrics
+Best Accuracy is given by RANDOM FOREST MODEL
 
